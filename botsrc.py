@@ -1,7 +1,7 @@
 # Despise my creation as much as you need.
 # it's still on Dev phase.
 # - Brewy
-#
+# P.S. I suck at coding, OFC it looks primitive.
 
 import discord
 from discord.ext import commands
